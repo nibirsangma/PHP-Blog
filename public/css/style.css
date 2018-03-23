@@ -1,0 +1,38 @@
+body {
+
+}
+
+h1 {
+    font-family: inherit;
+    font-weight: 100;
+}
+
+p {
+    font-family: inherit;
+    font-weight: 100;
+}
+
+.bd-navbar {
+    background: #563d7c;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
+    position: sticky;
+    top: 0;
+    z-index: 1071;
+}
+
+.calendar {
+    margin-top: 30px;
+}
+
+.Posts > h1 > a {
+    color: #000;
+}
+
+thead {
+    background: #563d7c;
+    color: #fff3cd;
+}
+
+table, tr, th, td {
+    border-color: #563d7c!important;
+}
