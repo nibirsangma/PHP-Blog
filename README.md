@@ -1,2 +1,2 @@
 # php-blog
-A simple Blog
+A simple Blog Developed using Laravel Framework
